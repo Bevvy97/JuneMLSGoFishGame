@@ -1,8 +1,8 @@
-from manager import manager
+from Manager import Manager
 
 
 def main():
-    game = manager()
+    game = Manager()
     game.start()
 
 
