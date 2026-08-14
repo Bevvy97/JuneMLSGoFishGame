@@ -2,7 +2,7 @@ from manager import Manager
 
 
 def main():
-    game = Manager()
+    game = manager()
     game.start()
 
 
